@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+## And i'm `Javascript` Jr. Frontend Developer (maybe mid, IDK)
 
 <!--
 **danny920825/danny920825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me!
+**⚡ I’m currently working whit JS Frameworks like**
+ * Astro
+ * NextJS
+ * ReactJS
+ * Express (Sometimes)
+ * React Native
+
